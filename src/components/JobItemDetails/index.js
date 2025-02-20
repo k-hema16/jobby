@@ -100,7 +100,6 @@ class JobItemDetails extends Component {
     const {
       companyLogoUrl,
       employmentType,
-      id,
       jobDescription,
       companyWebsiteUrl,
     } = jobDetails
